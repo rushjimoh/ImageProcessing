@@ -14,7 +14,12 @@ The project titled, "Enhancing Optical Character Recognition (OCR) Capabilities 
 In return, this will make the text from historical articles easier to index and catalog for future research
 
 ## SPIN Project [link spin page](http://spin.ncsa.illinois.edu/)
-* The reason why I am exploring this topic is to understand differences between scanned pages and born digital document for astrophysical literature
+The reason why I am exploring this topic is to understand the differences between scanned pages and born digital documents for astrophysical literature. In other words, we to ask ourselves, "what makes an image look old?"
+
+An example, from previous work, that highlights the task we are doing, shows the different transformations that. an be conducted on an image, using code, to make a new image, look old.
+
+
+
 
 * Starting to explore the scanned pages with image processing methods in Python
 
