@@ -21,6 +21,8 @@ An example, from previous work, that highlights the task we are doing, shows the
 ![example transformation pic](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-07-26%20at%206.58.14%20PM.png?raw=true)
 Figure 1. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030 
 
+![example 2](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-08-31%20at%2012.45.09%20PM.png?raw=true)
+Figure 2. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030
 
 ![image](https://user-images.githubusercontent.com/107584957/187746292-17411feb-9c4b-41f3-bc5e-a0030bc699e5.png)
 
