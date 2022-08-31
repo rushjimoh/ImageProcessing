@@ -18,7 +18,7 @@ The reason why I am exploring this topic is to understand the differences betwee
 
 An example, from previous work, that highlights the task we are doing, shows the different transformations that. an be conducted on an image, using code, to make a new image, look old.
 
-
+! [example transformation pic](
 
 
 * Starting to explore the scanned pages with image processing methods in Python
