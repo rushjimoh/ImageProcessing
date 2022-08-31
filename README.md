@@ -26,8 +26,8 @@ Figure 2. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A b
 
 ![image](https://user-images.githubusercontent.com/107584957/187746292-17411feb-9c4b-41f3-bc5e-a0030bc699e5.png)
 
-
-* Starting to explore the scanned pages with image processing methods in Python
+## My work
+We are starting to explore the scanned pages with image processing methods in Python
 
 ![example blur image](https://github.com/rushjimoh/ImageProcessing/raw/main/blur.png)
 * Example of some image processing methods that we used and put snippets of code
