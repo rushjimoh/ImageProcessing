@@ -16,7 +16,7 @@ In return, this will make the text from historical articles easier to index and 
 ## SPIN Project [link spin page](http://spin.ncsa.illinois.edu/)
 The reason why I am exploring this topic is to understand the differences between scanned pages and born digital documents for astrophysical literature. In other words, we to ask ourselves, "what makes an image look old?"
 
-An example, from previous work, that highlights the task we are doing, shows the different transformations that can be conducted on an image using code to make a new image look old.
+An example from previous work that highlights the task we are doing, shows the different transformations that can be conducted on an image using code to make a new image look old.
 
 ![example transformation pic](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-07-26%20at%206.58.14%20PM.png?raw=true)
 Figure 1. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030 
@@ -24,10 +24,11 @@ Figure 1. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A b
 ![example 2](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-08-31%20at%2012.45.09%20PM.png?raw=true)
 Figure 2. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030
 
+
 ![image](https://user-images.githubusercontent.com/107584957/187746292-17411feb-9c4b-41f3-bc5e-a0030bc699e5.png)
 
 ## My work
-We are starting to explore the scanned pages with image processing methods in Python
+We are starting to explore the scanned pages with image processing methods in Python and the examples below shows the beginning process into the world of image processing that can lead to more findings:
 ```
 import cv2 as cv
 image_pic = "gdrive/MyDrive/Figure Layout and Classification Independent Study/data/ScannedPages/1895ApJ_____1__212F_p1.jpeg"
