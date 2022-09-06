@@ -67,6 +67,7 @@ res = np.hstack((img,equ)) #stacking images side-by-side
 plt.imshow(res)
 plt.imshow(res,cmap='gray')
 ```
+![example saturation](https://github.com/rushjimoh/ImageProcessing/blob/main/satur.png?raw=true)
 
 * Example of some image processing methods that we used and put snippets of code
 ```
