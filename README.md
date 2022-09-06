@@ -50,7 +50,23 @@ plt.show()
 
 The image above shows one of the methods that'll allow us to add blur to an image. 
 
+Another example is shown below of contrast being taken away from an image to mimic the way old, scanned images are viewed.
 
+```
+bright_pic ="gdrive/MyDrive/Figure Layout and Classification Independent Study/data/ScannedPages/1960ApJ___131__282B_p1.jpeg"
+bright = cv.imread(bright_pic)
+plt.imshow(bright)
+
+cdf_m = np.ma.masked_equal(cdf,0)
+cdf_m = (cdf_m - cdf_m.min())*255/(cdf_m.max()-cdf_m.min()) #this is an equation to calc. the histogram equalization equation
+cdf = np.ma.filled(cdf_m,0).astype('uint8')
+
+img = cv.imread(bright_pic,0)
+equ = cv.equalizeHist(img)
+res = np.hstack((img,equ)) #stacking images side-by-side
+plt.imshow(res)
+plt.imshow(res,cmap='gray')
+```
 
 * Example of some image processing methods that we used and put snippets of code
 ```
