@@ -27,6 +27,7 @@ Figure 2. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A b
 
 ![image](https://user-images.githubusercontent.com/107584957/187746292-17411feb-9c4b-41f3-bc5e-a0030bc699e5.png)
 
+
 ## My work
 We are starting to explore the scanned pages with image processing methods in Python and the examples below shows the beginning process into the world of image processing that can lead to more findings:
 ```
