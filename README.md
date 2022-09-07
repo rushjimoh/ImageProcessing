@@ -17,9 +17,10 @@ In return, this will make the text from historical articles easier to index and 
 The reason why I am exploring this topic is to understand the differences between scanned pages and born digital documents for astrophysical literature. In other words, we to ask ourselves, "what makes an image look old?"
 
 An [example](https://vtechworks.lib.vt.edu/handle/10919/100113) from previous work that highlights the task we are doing, shows the different transformations that can be conducted on an image using code to make a new image look old.
-<img src="https://vtechworks.lib.vt.edu/handle/10919/100113" height="600">
+
 ![example transformation pic](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-07-26%20at%206.58.14%20PM.png?raw=true)
 Figure 1. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030 
+<img src="https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-07-26%20at%206.58.14%20PM.png?raw=true" height="600">
 
 ![example 2](https://github.com/rushjimoh/ImageProcessing/blob/main/Screen%20Shot%202022-08-31%20at%2012.45.09%20PM.png?raw=true)
 Figure 2. Kahu, S. Y., Ingram, W. A., Fox, E. A., & Wu, J. (2021). ScanBank: A benchmark dataset for figure extraction from scanned electronic theses and dissertations. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL). https://doi.org/10.1109/jcdl52503.2021.00030
