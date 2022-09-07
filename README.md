@@ -50,7 +50,7 @@ plt.show()
 
 ![example blur image](https://github.com/rushjimoh/ImageProcessing/raw/main/blur.png)
 
-The image above shows one of the methods that'll allow us to add blur to an image. 
+The image above shows one of the methods that'll allow us to add blur to an image. Blur is being applied because this can occur during the scanning process of historical documents, especially since this was so long ago.
 
 Another example is shown below of contrast being taken away from an image to mimic the way old, scanned images are viewed.
 
@@ -71,9 +71,8 @@ plt.imshow(res,cmap='gray')
 ```
 ![example saturation](https://github.com/rushjimoh/ImageProcessing/blob/main/satur.png?raw=true)
 
-* Example of some image processing methods that we used and put snippets of code
 
-This file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product.
+This New.ipynb file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product. 
 
 This is still a developing project, as I will continue to further my knowledge and include more methods as time progresses.
 
