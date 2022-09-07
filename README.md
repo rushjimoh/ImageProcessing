@@ -72,7 +72,7 @@ plt.imshow(res,cmap='gray')
 
 * Example of some image processing methods that we used and put snippets of code
 
-This file shows how to identify a regioon of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product.
+This file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product.
 
 This is still a developing project, as I will continue to further my knowledge and include more methods as time progresses.
 
