@@ -72,7 +72,7 @@ plt.imshow(res,cmap='gray')
 ![example saturation](https://github.com/rushjimoh/ImageProcessing/blob/main/satur.png?raw=true)
 
 
-This New.ipynb file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product. 
+This [New.ipynb](https://github.com/rushjimoh/ImageProcessing/blob/main/New.ipynb) file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product. 
 
 This is still a developing project, as I will continue to further my knowledge and include more methods as time progresses.
 
