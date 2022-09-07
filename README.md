@@ -1,13 +1,4 @@
 # ImageProcessing
-## Header 2
-### Header 3
-
-* Thing 1
-
-1. Thing 1
-1. Thing 2
-
-
 ## Project Overview
 The project titled, "Enhancing Optical Character Recognition (OCR) Capabilities for Historical Documents", aims to understand the processes which degrade historical page scans and increase OCR error rates
 
@@ -76,6 +67,4 @@ This [New.ipynb](https://github.com/rushjimoh/ImageProcessing/blob/main/New.ipyn
 
 This is still a developing project, as I will continue to further my knowledge and include more methods as time progresses.
 
-I want to include a Google Colab file but I don't remember how to do that.
-[source](https://arxiv.org/abs/2106.15320)
-[github](https://github.com/SampannaKahu/ScanBank)
+The [Kahu et al. 2019](https://arxiv.org/abs/2106.15320) is the previous research on this topic, with the [reference code](https://github.com/SampannaKahu/ScanBank).
