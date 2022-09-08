@@ -1,4 +1,4 @@
-# ImageProcessing
+# Image Processing
 ## Project Overview
 The project titled, "Enhancing Optical Character Recognition (OCR) Capabilities for Historical Documents", aims to understand the processes which degrade historical page scans and increase OCR error rates
 
@@ -65,6 +65,6 @@ plt.imshow(res,cmap='gray')
 
 This [New.ipynb](https://github.com/rushjimoh/ImageProcessing/blob/main/New.ipynb) file shows how to identify a region of interest, and remove that from an image. The final result shows the original image, the image/region that was extracted, and the finished product. 
 
-This is still a developing project, as I will continue to further my knowledge and include more methods as time progresses.
+This is just the beginning of a still developing project, I will continue to further my knowledge and include more methods as time progresses.
 
 The [Kahu et al. 2019](https://arxiv.org/abs/2106.15320) is the previous research on this topic, with the [reference code](https://github.com/SampannaKahu/ScanBank).
